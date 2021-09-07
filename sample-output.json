@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "Canada's Bianca Andreescu knocked out of U.S. Open after losing 3 1/2-hour match to Greece's Maria Sakkari | CBC Sports",
+      "description": "Maria Sakkari has eliminated 2019 champion Bianca Andreescu in the latest-finishing women's match in tournament history to reach the U.S. Open quarter-finals for the first time.",
+      "url": "http://www.cbc.ca/sports/tennis/us-open-roundup-recap-fourth-round-sept-6-1.6166015",
+      "urlToImage": "https://i.cbc.ca/1.6166492.1630994511!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1338803105.jpg",
+      "publishedAt": "2021-09-07T07:52:22.4548789Z",
+      "content": "Maria Sakkari has eliminated 2019 champion Bianca Andreescu in the latest-finishing women's match in tournament history to reach the U.S. Open quarter-finals for the first time.\r\nSakkari came back to… [+6612 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Josh Horwitz,Sophie Yu",
+      "title": "China's esports powerhouse status undermined by tough new gaming rules for under 18s",
+      "description": "In glass-paneled conference rooms, members of the Shanghai-based esports team Rogue Warriors tap away at their phones as they train from 11 a.m. till late, occasionally breaking for food.",
+      "url": "https://www.reuters.com/world/china/chinas-esports-powerhouse-status-undermined-by-tough-new-gaming-rules-under-18s-2021-09-07/",
+      "urlToImage": "https://www.reuters.com/resizer/72oS_kjyBkx-BPqHrv9I5JHhFD4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W2ZNKAQLPJNHVPECUTSGVTN2YE.jpg",
+      "publishedAt": "2021-09-07T04:13:17Z",
+      "content": "SHANGHAI, Sept 7 (Reuters) - In glass-paneled conference rooms, members of the Shanghai-based esports team Rogue Warriors tap away at their phones as they train from 11 a.m. till late, occasionally b… [+3062 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Mark SchlabachESPN Senior Writer ",
+      "title": "Georgia football coach Kirby Smart says Bulldogs experiencing 'highest spike' of COVID-19 despite more than 90% being vaccinated",
+      "description": "Georgia football coach Kirby Smart says three or four players and sports medicine director Ron Courson are out with COVID-19, despite more than 90% of the football program being vaccinated.",
+      "url": "http://espn.go.com/college-football/story/_/id/32160799/georgia-football-coach-kirby-smart-says-90-vaccination-bulldogs-experiencing-highest-spike-covid-19",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0830%2Fr902598_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-09-06T18:55:00Z",
+      "content": "With Georgia set to host its first home game against UAB at Sanford Stadium on Saturday, coach Kirby Smart said three or four of his players are sidelined with COVID-19.\r\nSmart declined to identify t… [+1763 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times http://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2021-02-10T03:52:37.2719772Z",
+      "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+    }
+  ]
+}
